@@ -8,7 +8,7 @@ Bu proje, animasyonlar ve şık bir tasarım kullanılarak oluşturulan bir ayak
 - Responsive tasarım sayesinde farklı cihazlarda sorunsuz çalışır (mobil, tablet ve masaüstü).
 - Ayakkabı koleksiyonunu gösteren etkileyici bir ana sayfa.
 - Ürün detay sayfaları ve kullanıcıların ürünleri sepete ekleyip satın alabileceği alışveriş sepeti.
-- Kolay kullanılabilir ve gezinmesi kolay arayüz.
+- Kolay kullanılabilir ve gezinmesi kolay arayüz...
 
 
 ## `Screen`
